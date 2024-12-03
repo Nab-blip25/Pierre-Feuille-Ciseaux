@@ -66,11 +66,12 @@ img {
         margin: 0 20px; /* Pour espacer les boutons */
     }
     img {
-        background-color: red;
+        background-color: blue;
         width: 150px;
     }
     #resultats {
         font-size: 4rem;
+        padding-top: 50px;
     }
     .nom-bouton {
         font-size: 3rem;
