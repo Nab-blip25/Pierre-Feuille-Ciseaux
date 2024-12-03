@@ -59,7 +59,7 @@ img {
 
 @media screen and (min-width: 384px) {
     #boutons {
-        padding: 200px 0 250px 0;
+        padding-bottom: 150px;
     }
     button {
         padding: 50px;
